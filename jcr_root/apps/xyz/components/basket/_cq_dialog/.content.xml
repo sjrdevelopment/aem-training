@@ -66,6 +66,12 @@
                                 value="no"/>
                         </items>
                     </activeToggle>
+                    <isActive
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/foundation/form/checkbox"
+                        name="./isActive"
+                        text="Activate"
+                        value="{Boolean}true"/>
                 </items>
             </column>
         </items>

@@ -1,5 +1,14 @@
 /* generated with grunt-sass-globbing */
 /* generated with grunt-sass-globbing */
+.basket-container {
+  background-color: #000066;
+  color: #fff;
+}
+
+.basket-container.active {
+  background-color: #6699ff;
+}
+
 .navigation {
   background-color: #42414b;
   color: #fff;

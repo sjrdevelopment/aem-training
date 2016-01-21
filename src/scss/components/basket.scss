@@ -1,0 +1,8 @@
+.basket-container {
+	background-color: $dark-blue;
+	color: $white;
+
+	&.active {
+		background-color: $light-blue;
+	}
+}
