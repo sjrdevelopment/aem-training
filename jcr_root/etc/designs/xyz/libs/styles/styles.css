@@ -1,0 +1,11 @@
+/* generated with grunt-sass-globbing */
+/* generated with grunt-sass-globbing */
+.navigation {
+  background-color: #42414b;
+  color: #fff;
+  border: 2px solid #ff0000;
+}
+
+.navigation p {
+  color: #ccc;
+}
